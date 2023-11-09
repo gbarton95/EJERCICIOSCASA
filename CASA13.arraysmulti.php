@@ -34,7 +34,7 @@
         }
 
         //Existe un método que imprime todo sin formato: var_dump
-        echo var_dump($alimentos) . "<br>";
+        echo var_dump($alimentos) . "<br><br>";
 
     ?>
 </body>
